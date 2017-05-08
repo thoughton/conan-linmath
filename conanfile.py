@@ -5,7 +5,7 @@ class LinmathConan(ConanFile):
     version = "latest"
     license = "WTFPL"
     url = "https://github.com/thoughton/conan-linmath"
-    build_policy = "always"
+    #build_policy = "always"
     description = "a lean linear math library, aimed at graphics programming. Supports vec3, vec4, mat4x4 and quaternions"
     # No settings/options are necessary, this is header only
 
